@@ -127,7 +127,7 @@ const Cardform = () => {
             <input
               className="form-control"
               id="cvv"
-              type="text"
+              type="number"
               placeholder="123"
               maxLength="3"
               value={cvv}
